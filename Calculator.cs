@@ -4,7 +4,7 @@
     {
         public static int Plus(this int a, int b)
         {
-            return a + b;
+            return a + b + 1;
         }
     }
 }
